@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and security
 - 🌱 I’m currently developing a discord bot
 - 💞️ I’m looking to collaborate on a lot
-- 📫 How to reach me ...
+- 📫 beruflich@d-bruegge.de
 
 <!---
 Tytonida3/Tytonida3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
