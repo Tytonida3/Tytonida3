@@ -2,7 +2,7 @@
 
 I'm 21 y/o and currently studying applied computer science in [Flensburg (Germany)](https://hs-flensburg.de/studieninteressierte/angebot/bachelor/AI "Flensburg (Germany)").
 
-I mainly write stuff in Rust, Java, JavaScript and Python.
+I mainly write stuff in Haskell, Python and Java and I would like to learn Elm and Elixir sometime soon.
 
 If needed you can reach me at informatik@d-bruegge.de
 <!---
